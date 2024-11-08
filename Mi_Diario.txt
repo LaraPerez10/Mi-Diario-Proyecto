@@ -1,1 +1,2 @@
 Día 1: Hoy empiezo mi diario con Git.
+Día 2: Hoy aprendi sobre el comando git add y git commit.
